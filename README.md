@@ -100,8 +100,8 @@ const RAG_SERVER = 'http://115.137.55.154:30';
 ## 📷 실행 화면
 
 <p align="center">
-  <img src="screenshot.PNG" width="45%">
-  <img src="screenshot2.PNG" width="45%">
+  <img src="images/screenshot.PNG" width="45%">
+  <img src="images/screenshot2.PNG" width="45%">
 </p>
 ---
 
