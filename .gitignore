@@ -1,0 +1,9 @@
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# 로그
+*.log

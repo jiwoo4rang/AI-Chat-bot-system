@@ -155,8 +155,8 @@
       const avatar = document.createElement('div');
       avatar.className = `avatar ${role}`;
       avatar.innerHTML = role === 'ai'
-        ? '<img src="백룡이.png" class="avatar-img" alt="백룡이">'
-        : '<img src="충랑이.png" class="avatar-img" alt="충랑이">';
+        ? '<img src="images/avatar-ai.png" class="avatar-img" alt="avatar-ai">'
+        : '<img src="images/avatar-user.png" class="avatar-img" alt="avatar-user">';
 
       const bubbleWrap = document.createElement('div');
       bubbleWrap.className = 'bubble-wrap';
@@ -187,7 +187,7 @@
 
       const avatar = document.createElement('div');
       avatar.className = 'avatar ai';
-      avatar.innerHTML = '<img src="백룡이.png" class="avatar-img" alt="백룡이">';
+      avatar.innerHTML = '<img src="images/avatar-ai.png" class="avatar-img" alt="avatar-ai">';
 
       const bubbleWrap = document.createElement('div');
       bubbleWrap.className = 'bubble-wrap';
