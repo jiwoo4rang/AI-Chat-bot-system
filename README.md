@@ -17,16 +17,16 @@ AI가 관련 정보를 기반으로 답변을 제공합니다.
 
 ## 🛠️ 사용 기술
 
-* AI / Backend
-· LLM 실행: LM Studio (로컬 LLM 환경)
-· AI 방식: RAG (Retrieval-Augmented Generation)
-· 연동: API 기반 통신
+## AI / Backend
+* LLM 실행: LM Studio (로컬 LLM 환경)
+* AI 방식: RAG (Retrieval-Augmented Generation)
+* 연동: API 기반 통신
 
-* Frontend
-· HTML · CSS · JavaScript
+##Frontend
+* HTML · CSS · JavaScript
 
-* 적용 데이터
-· 의회 관련 문서, 조례, 회의자료, 예·결산 자료
+## 적용 데이터
+* 의회 관련 문서, 조례, 회의자료, 예·결산 자료
 
 ---
 
