@@ -17,10 +17,16 @@ AI가 관련 정보를 기반으로 답변을 제공합니다.
 
 ## 🛠️ 사용 기술
 
-* HTML / CSS / JavaScript
-* REST API (AI 서버 연동)
-* LocalStorage (테마 저장)
-* Fetch API (비동기 통신)
+* AI / Backend
+· LLM 실행: LM Studio (로컬 LLM 환경)
+· AI 방식: RAG (Retrieval-Augmented Generation)
+· 연동: API 기반 통신
+
+* Frontend
+· HTML · CSS · JavaScript
+
+* 적용 데이터
+· 의회 관련 문서, 조례, 회의자료, 예·결산 자료
 
 ---
 
@@ -111,8 +117,8 @@ const RAG_SERVER = 'http://115.137.55.154:30';
 * 사용자 맞춤 추천 기능
 * 의회 어플리케이션 제작 배포
 
----
-
-## 👨‍💻 개발자
-
-* 최지우
+## 내가 담당한 역할
+· 의회 문서 데이터 전처리 및 RAG 파이프라인 구성
+· LM Studio 기반 로컬 LLM 환경 구축 및 API 연동 지원
+· 사용자 인터페이스(HTML/CSS/JS) 개발
+· 시범운영 피드백 반영 및 개선
